@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full-stack development
 - 📫 How to reach me ffaro3@uic.edu
 - ⚡ Fun fact: I like cinematography
+- 🤖 Main Github: https://github.com/ffarooqui2
 
 <!---
 ffaro3/ffaro3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
